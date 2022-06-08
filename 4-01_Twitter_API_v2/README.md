@@ -31,6 +31,6 @@ Option 2: open the script with Python IDE, such as PyCharm, Spyder. And make cha
 
 Option 3: copy the script to Jupyter notebook and run the script as you usually do.
 
-If you still have no ideas about the script, please reach out to me: liping.zheng.1@warwick.ac,uk. And I will explain to you.
+If you still have no ideas about the script, please reach out to me: liping.zheng.1@warwick.ac.uk. And I will explain to you.
 
 # Hope you enjoy this project!
